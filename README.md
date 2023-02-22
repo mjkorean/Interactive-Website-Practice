@@ -1,5 +1,5 @@
 # Interactive Website Practice
-asdasdasd
+https://mjkorean-interactive-website-practice.netlify.app/
 - HTML/CSS
 - JavaScript
 - Responsive Web Design
