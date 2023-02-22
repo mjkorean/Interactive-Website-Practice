@@ -1,4 +1,4 @@
-# Interactive-Website-Practice
+# Interactive Website Practice
 asdasdasd
 - HTML/CSS
 - JavaScript
